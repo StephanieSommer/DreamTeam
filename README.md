@@ -1,6 +1,5 @@
 # DreamTeam
 
 
-hej med jer
 
-Hvad så der?
+hej med jer
